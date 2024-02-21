@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "project_number": "1086608217378",
+    "firebase_url": "https://education-1552881571909.firebaseio.com",
+    "project_id": "education-1552881571909",
+    "storage_bucket": "education-1552881571909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086608217378:android:0a7397aeb6c90ccddb417b",
+        "android_client_info": {
+          "package_name": "com.example.atom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086608217378-aqlrgqar8trm4kmbkaqqujkhjdn7pj52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atom",
+            "certificate_hash": "e9edce0fceb09cb843bd480687533efd605aefd9"
+          }
+        },
+        {
+          "client_id": "1086608217378-r9oolkfo7psrasl4mhjas5dlobke3ft0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atom",
+            "certificate_hash": "3190fffa0027643fc17bdd28441c526f20cfdc9a"
+          }
+        },
+        {
+          "client_id": "1086608217378-s7rn081cg7b3n7498376uc03270dkjv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atom",
+            "certificate_hash": "d80868a6b7dc00f9cce84cd41f36ca8d6f3c4b46"
+          }
+        },
+        {
+          "client_id": "1086608217378-6dp3riv2l34aovfh2j70pqamsrch10e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4316pgyokt9j9bYrTqG6floyBbw7I6vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086608217378-6dp3riv2l34aovfh2j70pqamsrch10e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086608217378-ajrbvlopds221n7b74hgralt7eat7s1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.htd.echat"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7471277171745419~4064116557"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086608217378:android:ff952c4a4f3ad365db417b",
+        "android_client_info": {
+          "package_name": "com.example.avios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086608217378-6dp3riv2l34aovfh2j70pqamsrch10e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4316pgyokt9j9bYrTqG6floyBbw7I6vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086608217378-6dp3riv2l34aovfh2j70pqamsrch10e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086608217378-ajrbvlopds221n7b74hgralt7eat7s1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.htd.echat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
